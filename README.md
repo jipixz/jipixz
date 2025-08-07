@@ -29,7 +29,7 @@ readme_content = '''# ¡Hola! 👋 Soy Gibrán de Jesús Ramón Perera-->
 
 Ingeniero en Telemática con **4+ años de experiencia** en desarrollo, despliegue y mantenimiento de aplicaciones web para empresas nacionales e internacionales. Apasionado por la **tecnología IoT**, microcontroladores, y especializado en el **stack JavaScript completo**.
 
-- 🔭 Actualmente trabajando como **Desarrollador Full Stack Senior** en Actual Studio (Freelance)
+- 🔭 Actualmente trabajando como **Desarrollador Full Stack** en Actual Studio (Freelance)
 - 🌱 Desarrollando sistemas de **monitoreo agrícola con LoRa** y **Machine Learning** para mi proyecto de maestría
 - 👨‍💻 4 años de experiencia manteniendo aplicaciones **AngularJS + SailsJS + MongoDB**
 - 🎯 2+ años con tecnologías modernas: **React, Express, MySQL, NestJS**
@@ -169,7 +169,7 @@ Ingeniero en Telemática con **4+ años de experiencia** en desarrollo, desplieg
 ## 💼 Experiencia Profesional
 
 <details>
-<summary><b>🚀 Desarrollador Full Stack Senior - Actual Studio (Jun 2024 - Actualidad)</b></summary>
+<summary><b>🚀 Desarrollador Full Stack - Actual Studio (Jun 2024 - Actualidad)</b></summary>
 
 - Mantenimiento y evolución de aplicaciones **AngularJS + SailsJS**
 - Administración **MongoDB Atlas** con pipelines CI/CD en **Jenkins + AWS**
