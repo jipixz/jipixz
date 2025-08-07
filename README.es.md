@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 <!--# Crear el README personalizado para el perfil de GitHub basado en la información del CV y experiencia
 
 readme_content = '''# ¡Hola! 👋 Soy Gibrán de Jesús Ramón Perera-->
-
 <p align="right">
   <a href="README.md">🇺🇸 English</a>
 </p>
@@ -91,7 +90,7 @@ Ingeniero en Telemática con **4+ años de experiencia** en desarrollo, desplieg
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jipixz&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jipixz&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
