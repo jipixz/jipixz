@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 readme_content = '''# ¡Hola! 👋 Soy Gibrán de Jesús Ramón Perera-->
 
 <p align="right">
-  <a href="README.en.md">🇺🇸 English</a>
+  <a href="README.md">🇺🇸 English</a>
 </p>
 
 <div align="center">
