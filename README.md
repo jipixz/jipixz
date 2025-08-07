@@ -24,8 +24,8 @@ readme_content = '''# ¡Hola! 👋 Soy Gibrán de Jesús Ramón Perera-->
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Telematics+Engineer;4%2B+years+of+experience;IoT+%26+Technology+Enthusiast;JavaScript+Stack+Specialist)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=jipixz&color=0e75b6&style=flat-square)  
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=jipixz&color=0e75b6&style=flat-square)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jipixz)
   
 </div>
@@ -44,48 +44,48 @@ Telematics Engineer with **4+ years of experience** in developing, deploying, an
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-![SailsJS](https://img.shields.io/badge/-SailsJS-14ACC2?style=flat-square&logo=sails.js&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![SailsJS](https://img.shields.io/badge/-SailsJS-14ACC2?style=flat-square&logo=sails.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/-Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### IoT & Hardware
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![LoRa](https://img.shields.io/badge/-LoRa-1ABC9C?style=flat-square&logo=lora&logoColor=white)
 
 ### Machine Learning
-![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jipixz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jipixz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jipixz&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
@@ -103,8 +103,8 @@ Telematics Engineer with **4+ years of experience** in developing, deploying, an
 
 <div align="center">
   
-  ![MSA Architecture](https://img.shields.io/badge/Architecture-Microservices-orange?style=for-the-badge)  
-  ![IoT](https://img.shields.io/badge/IoT-LoRa_Network-green?style=for-the-badge)  
+  ![MSA Architecture](https://img.shields.io/badge/Architecture-Microservices-orange?style=for-the-badge)
+  ![IoT](https://img.shields.io/badge/IoT-LoRa_Network-green?style=for-the-badge)
   ![ML](https://img.shields.io/badge/ML-Predictions-blue?style=for-the-badge)
   
 </div>
@@ -116,7 +116,7 @@ Telematics Engineer with **4+ years of experience** in developing, deploying, an
 - **Features:** Real-time dashboard, geospatial visualization, automated alerts  
 - **Communication:** Socket.IO for live data, Zustand for global state  
 
-![Stars](https://img.shields.io/github/stars/jipixz/msa-front?style=social)  
+![Stars](https://img.shields.io/github/stars/jipixz/msa-front?style=social)
 ![Forks](https://img.shields.io/github/forks/jipixz/msa-front?style=social)
 
 **🔧 [MSA-Backend](https://github.com/jipixz/msa-back)**  
@@ -124,15 +124,15 @@ Telematics Engineer with **4+ years of experience** in developing, deploying, an
 - **Features:** RESTful API, serial communication with Raspberry Pi, WebSockets  
 - **Hardware:** Integration with LoRa nodes and multiple agricultural sensors  
 
-![Stars](https://img.shields.io/github/stars/jipixz/msa-back?style=social)  
+![Stars](https://img.shields.io/github/stars/jipixz/msa-back?style=social)
 ![Forks](https://img.shields.io/github/forks/jipixz/msa-back?style=social)
 
-**🤖 [MSA-Machine Learning](https://github.com/jipixz/msa-back-LR-py)**  
+**🤖 [MSA-Machine Learning](https://github.com/jipixz/msa-back-LR-py)**
 - **Stack:** Python + FastAPI, scikit-learn, Pandas, NumPy, Matplotlib  
 - **Features:** Environmental predictions, intelligent alerts, historical analysis  
 - **Algorithms:** Linear Regression, Random Forest, Polynomial Features  
 
-![Stars](https://img.shields.io/github/stars/jipixz/msa-back-LR-py?style=social)  
+![Stars](https://img.shields.io/github/stars/jipixz/msa-back-LR-py?style=social)
 ![Forks](https://img.shields.io/github/forks/jipixz/msa-back-LR-py?style=social)
 
 #### 🎯 Technical Highlights
