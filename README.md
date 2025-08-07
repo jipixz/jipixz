@@ -92,7 +92,7 @@ Telematics Engineer with **4+ years of experience** in developing, deploying, an
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jipixz&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jipixz&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
