@@ -154,7 +154,7 @@ Telematics Engineer with **4+ years of experience** in developing, deploying, an
 - **Site:** Cerro Blanco 5th Section, Tacotalpa, Tabasco (near Tapijulapa)  
 - **Coverage:** Rural crop monitoring with limited connectivity  
 
-### 🏨 HotelShops – MERN Enterprise Migration  
+### 🏨 MERN Enterprise Migration  
 **Leading Legacy System Modernization**
 
 - **Full migration:** Power Apps → MERN Stack (React + Express + MongoDB)  
