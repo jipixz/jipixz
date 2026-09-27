@@ -44,7 +44,7 @@ A local LLM (Gemma via Ollama) drafts customer messages grounded on the live men
 ### 🌱 Cacao traceability system (IoT): M.Sc. terminal project
 ESP32 **LoRa** sensor nodes (soil moisture and temperature, air, light, rain) feeding an Express service over
 serial, live readings over Socket.IO, and a **FastAPI + scikit-learn** service with 7-day forecasts per sensor.
-Deployed for cacao producers in Tacotalpa, Tabasco.
+Deployed for cacao producers in Tacotalpa, Tabasco, with nodes about **1 km** apart.
 
 [Frontend](https://github.com/jipixz/msa-front) · [Backend](https://github.com/jipixz/msa-back) · [Forecasting service](https://github.com/jipixz/msa-back-LR-py) · [LoRa firmware](https://github.com/jipixz/msa-LoRa-esp32-heltec)
 
@@ -87,6 +87,7 @@ Deployed for cacao producers in Tacotalpa, Tabasco.
 **Cloud, DevOps & hardware**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SharePoint](https://img.shields.io/badge/-SharePoint%20%26%20Power%20Platform-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -104,6 +105,7 @@ Deployed for cacao producers in Tacotalpa, Tabasco.
 - Built an internal **MCP server** so the team's AI assistant can query ERP data, under each developer's own identity
 - Wrote reusable **Claude Code skills** with the team's component conventions for a low-code platform (Kissflow)
 - Built React components loaded through Module Federation into Kissflow, removing ~30 approval emails a day
+- Maintain the team's **Microsoft 365** workflows: SharePoint, Power Automate, Power Apps, Lists and Teams integrations
 
 </details>
 

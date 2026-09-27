@@ -44,7 +44,7 @@ los pedidos a WhatsApp. Un LLM local (Gemma con Ollama) redacta mensajes para cl
 ### 🌱 Sistema de trazabilidad de cacao (IoT): proyecto terminal de maestría
 Nodos **LoRa** con ESP32 (humedad y temperatura de suelo, aire, luz y lluvia) que envían datos a un servicio en Express
 por puerto serial, lecturas en vivo por Socket.IO y un servicio en **FastAPI + scikit-learn** con pronósticos a 7 días por sensor.
-Desplegado con productores de cacao en Tacotalpa, Tabasco.
+Desplegado con productores de cacao en Tacotalpa, Tabasco, con nodos a cerca de **1 km** de distancia.
 
 [Frontend](https://github.com/jipixz/msa-front) · [Backend](https://github.com/jipixz/msa-back) · [Servicio de pronósticos](https://github.com/jipixz/msa-back-LR-py) · [Firmware LoRa](https://github.com/jipixz/msa-LoRa-esp32-heltec)
 
@@ -87,6 +87,7 @@ Desplegado con productores de cacao en Tacotalpa, Tabasco.
 **Nube, DevOps y hardware**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SharePoint](https://img.shields.io/badge/-SharePoint%20%26%20Power%20Platform-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -104,6 +105,7 @@ Desplegado con productores de cacao en Tacotalpa, Tabasco.
 - Construí un **servidor MCP** interno para que el asistente de IA del equipo consulte datos del ERP, con la identidad de cada desarrollador
 - Escribí **skills de Claude Code** reutilizables con las convenciones de componentes del equipo para una plataforma low-code (Kissflow)
 - Construí componentes React cargados con Module Federation dentro de Kissflow, eliminando unos 30 correos de aprobación al día
+- Mantengo los flujos de **Microsoft 365** del equipo: SharePoint, Power Automate, Power Apps, Listas e integraciones con Teams
 
 </details>
 
