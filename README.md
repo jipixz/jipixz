@@ -1,240 +1,150 @@
-<!--
-**jipixz/jipixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--# Crear el README personalizado para el perfil de GitHub basado en la información del CV y experiencia
-
-readme_content = '''# ¡Hola! 👋 Soy Gibrán de Jesús Ramón Perera-->
-
-
 <p align="right">
-  <a href="README.es.md">🇪🇸 Español</a>
+  <a href="README.es.md">🇲🇽 Español</a>
 </p>
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Telematics+Engineer;4%2B+years+of+experience;IoT+%26+Technology+Enthusiast;JavaScript+Stack+Specialist)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=jipixz&color=0e75b6&style=flat-square)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jipixz)
-  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Senior+Full-Stack+Software+Engineer;Backend+%26+APIs+%C2%B7+Enterprise+integrations;AI-augmented%3A+MCP+%26+Claude+Code;Canc%C3%BAn%2C+Mexico+%C2%B7+Remote)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jipixz-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jipixz)
+[![Email](https://img.shields.io/badge/Email-gibranjramon%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gibranjramon@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=jipixz&color=0e75b6&style=flat-square)
+
 </div>
 
-## 🚀 About Me
+## 👋 About me
 
-Telematics Engineer with **4+ years of experience** in developing, deploying, and maintaining web applications for national and international companies. Passionate about **IoT technology**, microcontrollers, and specialized in the **complete JavaScript stack**.
+Full-stack software engineer with **5+ years** building and maintaining production web applications in
+**TypeScript, Node.js and React**. I like the hard parts: integrating with systems nobody documented,
+building the first version from a blank page, and making **AI tools work inside real engineering workflows**.
 
-- 🔭 Currently working as a **Full Stack Developer** at Actual Studio (Freelance)  
-- 🌱 Building **agricultural monitoring systems with LoRa** and **Machine Learning** for my master’s project  
-- 👨‍💻 4 years maintaining **AngularJS + SailsJS + MongoDB** applications  
-- 🎯 2+ years with modern technologies: **React, Express, MySQL, NestJS**  
-- 📍 **Cancún, Quintana Roo, Mexico**  
-- ⚡ Fun fact: I combine **web development** with **IoT** using microcontrollers and sensors  
+- 🏨 **Software Engineer at HotelShops** (Cancún): enterprise ERP integration, internal platforms and AI developer tooling
+- 🤖 I work daily with **Claude Code**; I built an **MCP server** and reusable **Claude Code skills** for my team
+- 🛰️ M.Sc. in Food Security (UJAT): my terminal project was an **IoT traceability system with LoRa sensors and forecasting**
+- 🏠 I self-host my side projects on a **Raspberry Pi 4** with PM2 and Cloudflare Tunnel
+- 🌎 Based in **Cancún, Mexico (UTC-5)**, open to **remote** roles
 
-## 🛠️ Tech Stack
+## 🏆 Featured projects
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+### 📡 [Señal](https://github.com/jipixz/RSS-Feed): self-hosted RSS reader with AI TL;DRs
+Full article inside the app, a 1-2 sentence summary from a **local LLM (Ollama) or the Claude API**, a "Today"
+digest ranked by **embeddings**, semantic search, text-to-speech and a live AI console.
+**NestJS · Prisma/SQLite · React PWA · Jest · GitHub Actions**. Runs on a Raspberry Pi within a 512 MB heap.
+
+<a href="https://github.com/jipixz/RSS-Feed"><img src="https://raw.githubusercontent.com/jipixz/RSS-Feed/main/docs/screenshots/today.png" width="180" alt="Señal: Today view" /></a>
+<a href="https://github.com/jipixz/RSS-Feed"><img src="https://raw.githubusercontent.com/jipixz/RSS-Feed/main/docs/screenshots/article.png" width="180" alt="Señal: article with TL;DR" /></a>
+<a href="https://github.com/jipixz/RSS-Feed"><img src="https://raw.githubusercontent.com/jipixz/RSS-Feed/main/docs/screenshots/ai-console.png" width="180" alt="Señal: live AI console" /></a>
+
+### 🌮 Order-management POS for a dark kitchen *(private, in daily use)*
+Orders with modifiers, a live kitchen board synced across tablets, scheduled orders with push reminders,
+cash-close reports, delivery zones on a map, Bluetooth label printing, and a public menu that sends orders to WhatsApp.
+A local LLM (Gemma via Ollama) drafts customer messages grounded on the live menu.
+**TypeScript · Express · Prisma · Socket.IO · React PWA**. Built with Claude Code, directing and reviewing the agent.
+
+### 🌱 Cacao traceability system (IoT): M.Sc. terminal project
+ESP32 **LoRa** sensor nodes (soil moisture and temperature, air, light, rain) feeding an Express service over
+serial, live readings over Socket.IO, and a **FastAPI + scikit-learn** service with 7-day forecasts per sensor.
+Deployed for cacao producers in Tacotalpa, Tabasco.
+
+[Frontend](https://github.com/jipixz/msa-front) · [Backend](https://github.com/jipixz/msa-back) · [Forecasting service](https://github.com/jipixz/msa-back-LR-py) · [LoRa firmware](https://github.com/jipixz/msa-LoRa-esp32-heltec)
+
+## 🛠️ Tech stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Backend
+**Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![SailsJS](https://img.shields.io/badge/-SailsJS-14ACC2?style=flat-square&logo=sails.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Sails.js](https://img.shields.io/badge/-Sails.js-14ACC2?style=flat-square&logo=sailsdotjs&logoColor=white)
 
-### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
+
+**Databases**
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+**AI**
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Cloud, DevOps & hardware**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32 / LoRa](https://img.shields.io/badge/-ESP32%20%2F%20LoRa-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-### IoT & Hardware
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
-![LoRa](https://img.shields.io/badge/-LoRa-1ABC9C?style=flat-square&logo=lora&logoColor=white)
-
-### Machine Learning
-![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jipixz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jipixz&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jipixz&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-## 🏆 Featured Projects
-
-### 🌱 Agricultural Monitoring System (MSA) – Master’s Project  
-**Complete Microservices Architecture for Agricultural IoT**
-
-<div align="center">
-  
-  ![MSA Architecture](https://img.shields.io/badge/Architecture-Microservices-orange?style=for-the-badge)
-  ![IoT](https://img.shields.io/badge/IoT-LoRa_Network-green?style=for-the-badge)
-  ![ML](https://img.shields.io/badge/ML-Predictions-blue?style=for-the-badge)
-  
-</div>
-
-#### 📦 System Repositories:
-
-**🖥️ [MSA-Frontend](https://github.com/jipixz/msa-front)**  
-- **Stack:** React 19 + TypeScript, TailwindCSS, Recharts, Leaflet Maps  
-- **Features:** Real-time dashboard, geospatial visualization, automated alerts  
-- **Communication:** Socket.IO for live data, Zustand for global state  
-
-![Stars](https://img.shields.io/github/stars/jipixz/msa-front?style=social)
-![Forks](https://img.shields.io/github/forks/jipixz/msa-front?style=social)
-
-**🔧 [MSA-Backend](https://github.com/jipixz/msa-back)**  
-- **Stack:** Node.js + Express, MongoDB, Socket.IO, SerialPort  
-- **Features:** RESTful API, serial communication with Raspberry Pi, WebSockets  
-- **Hardware:** Integration with LoRa nodes and multiple agricultural sensors  
-
-![Stars](https://img.shields.io/github/stars/jipixz/msa-back?style=social)
-![Forks](https://img.shields.io/github/forks/jipixz/msa-back?style=social)
-
-**🤖 [MSA-Machine Learning](https://github.com/jipixz/msa-back-LR-py)**
-- **Stack:** Python + FastAPI, scikit-learn, Pandas, NumPy, Matplotlib  
-- **Features:** Environmental predictions, intelligent alerts, historical analysis  
-- **Algorithms:** Linear Regression, Random Forest, Polynomial Features  
-
-![Stars](https://img.shields.io/github/stars/jipixz/msa-back-LR-py?style=social)
-![Forks](https://img.shields.io/github/forks/jipixz/msa-back-LR-py?style=social)
-
-#### 🎯 Technical Highlights
-
-**IoT Hardware:**  
-- **LoRa Nodes:** Heltec HTIT-WB32LA_V3 with 5.8 dBi antennas  
-- **Sensors:** Soil moisture (HW-390), rain (YL-83), temperature (DS18B20), environmental (BME280)  
-- **Communication:** Long-range LoRa network (~5 km line-of-sight)  
-- **Gateway:** Raspberry Pi 4B as central hub  
-
-**Software Stack:**  
-- **Frontend:** React 19 with TypeScript for type safety  
-- **Backend:** Express.js in microservices architecture  
-- **ML Service:** FastAPI for real-time predictions  
-- **Database:** MongoDB for horizontal scalability  
-- **Communication:** WebSockets for real-time updates  
-
-**Deployment Location:**  
-- **Site:** Cerro Blanco 5th Section, Tacotalpa, Tabasco (near Tapijulapa)  
-- **Coverage:** Rural crop monitoring with limited connectivity  
-
-### 🏨 MERN Enterprise Migration  
-**Leading Legacy System Modernization**
-
-- **Full migration:** Power Apps → MERN Stack (React + Express + MongoDB)  
-- **Cloud:** Deployed on Azure (App Service, Blob Storage, Cosmos DB)  
-- **Integration:** SharePoint, Power Platform, Kissflow  
-- **Impact:** Streamlined corporate administrative processes  
-
-### 🔧 Legacy Application – AngularJS + SailsJS  
-**4+ Years of Maintenance and Evolution**
-
-- **Frontend:** AngularJS (planned gradual migration)  
-- **Backend:** SailsJS with MVC architecture  
-- **Database:** MongoDB Atlas with advanced optimizations  
-- **DevOps:** Jenkins CI/CD on AWS Ubuntu servers  
-- **Responsibilities:** Architecture, migration planning, documentation  
-
-## 💼 Professional Experience
+## 💼 Experience
 
 <details>
-<summary><b>🚀 Full Stack Developer – Actual Studio (Jun 2024 – Present)</b></summary>
+<summary><b>🏨 Software Engineer · HotelShops (Corporate) · Jun 2024 – Present · Cancún, hybrid</b></summary>
 
-- Maintained and evolved **AngularJS + SailsJS** applications  
-- Managed **MongoDB Atlas** with Jenkins + AWS CI/CD pipelines  
-- Documented and planned **technology migrations**  
-- Optimized performance and scalability  
+- Built the integration layer with an **enterprise ERP (EPICOR)**: a NestJS API that validates payloads and a C# service that replicates the ERP's insertion process, reverse-engineered from its logs
+- Designed and built an internal real-time platform (**Next.js, NestJS, Prisma**) over live ERP data, with role-based access and an audit log; it grew from 6 users to **30-40** by request of other teams
+- Built an internal **MCP server** so the team's AI assistant can query ERP data, under each developer's own identity
+- Wrote reusable **Claude Code skills** with the team's component conventions for a low-code platform (Kissflow)
+- Built React components loaded through Module Federation into Kissflow, removing ~30 approval emails a day
 
 </details>
 
 <details>
-<summary><b>💻 Programmer Analyst – HotelShops (Jun 2024 – Present)</b></summary>
+<summary><b>🚀 Senior Full-Stack Developer (Freelance) · Actual Studio · Jun 2024 – Apr 2026 · Remote</b></summary>
 
-- Led **Power Apps → MERN** migration  
-- Deployed on **Azure**: App Service, Blob Storage, Cosmos DB  
-- Automated processes with **Power Platform** and **Kissflow**  
-- Integrated **SharePoint** workflows  
+- Alongside the HotelShops role: maintained production front end, back end and **MongoDB Atlas**, and extended the client's **Jenkins** CI/CD pipelines
 
 </details>
 
 <details>
-<summary><b>🌐 Full Stack Developer – SpaceshipLabs (Jul 2021 – Dec 2023)</b></summary>
+<summary><b>🌐 Full-Stack Developer · SpaceshipLabs · Jul 2021 – Dec 2023 · Remote</b></summary>
 
-- Frontend development with **Angular** and APIs with **Node.js (SailsJS)**  
-- Managed **MySQL, MariaDB, MongoDB** databases  
-- Custom WordPress and Shopify development  
-- Web performance optimization with Google PageSpeed Insights  
+- Back-end logic and REST APIs in **Node.js (Sails.js) and PHP** over MySQL, MariaDB and MongoDB
+- Rebuilt a client's CI/CD from scratch on self-hosted **Jenkins on AWS EC2**: ~12 pipelines with webhooks, rsync and PM2
+- Shopify stores, WordPress sites, and front/back-end work on **AirBetter**, a short-term rental platform for UK / Middle East clients
 
 </details>
 
 ## 🎓 Education
 
-**🎓 Bachelor’s in Telematics Engineering** – Universidad del Caribe (2015 – 2021)  
-Focus on networks, telecommunications, and distributed systems with IoT and software development.
+- **M.Sc. in Food Security** (professional track) · Universidad Juárez Autónoma de Tabasco · 2024 – 2025 · degree exam passed Feb 2026
+- **B.Eng. in Telematics Engineering** · Universidad del Caribe · 2015 – 2021
 
-## 📈 Goals for 2025
-
-- 🔬 Complete **Machine Learning for Agriculture** project  
-- ☁️ Earn **AWS Solutions Architect** certification  
-- 📱 Develop **mobile app** for IoT control  
-- 🎯 Specialize in **microservices and distributed architectures**
-
-## 🤝 Let’s Collaborate
-
-I’m always open to collaborating on exciting projects, especially those involving:  
-- 🌐 **Full Stack development** with modern technologies  
-- 🔧 **IoT and automation** with microcontrollers  
-- 🤖 **Machine Learning** applied to real-world problems  
-- ☁️ **Scalable cloud architectures**
-
-## 📫 How to Reach Me
-
-- 📧 Email: **gibranjramon@gmail.com**  
-- 🌍 Location: **Cancún, Quintana Roo, Mexico**  
-- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/jipixz)
-
----
+## 📊 GitHub stats
 
 <div align="center">
-  
-  ⭐️ **Thank you for visiting my profile!** ⭐️  
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jipixz&theme=tokyonight" />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jipixz&theme=tokyonight" />
+<img height="165" src="https://streak-stats.demolab.com?user=jipixz&theme=tokyonight" />
+
+</div>
+
+## 📫 Contact
+
+📧 **gibranjramon@gmail.com** · 💼 [linkedin.com/in/jipixz](https://linkedin.com/in/jipixz) · 📍 Cancún, Quintana Roo, Mexico
+
+<div align="center">
+
+⭐ **Thanks for stopping by!**
+
 </div>
